@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     transition: 0.5s;
-    transition-delay: 0.5s;
+    transition-delay: 0.3s;
 }
 
 body {
@@ -78,7 +78,7 @@ nav {
 }
 .view:hover{
     background-color: #171616;
-    transition-delay: 0.5s;
+    transition-delay: 0.3s;
 }
 
 .my-photo {
@@ -128,7 +128,7 @@ footer {
   height: 200px;
   transform-style: preserve-3d;
   transition: transform 1s;
-  transition-delay: 0.5s;
+  transition-delay: 0.3s;
   transform-origin: right center;
 }
 .flip:hover {
