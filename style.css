@@ -128,12 +128,11 @@ footer {
   height: 200px;
   transform-style: preserve-3d;
   transition: transform 1s;
-  transition-delay: 0.3s;
   transform-origin: right center;
 }
 .flip:hover {
   transform: translateX(-100%) rotateY(-180deg);
-  transition-delay: 0.5s;
+  transition-delay: 0.3s;
 }
 .flip .face {
   position: absolute;
